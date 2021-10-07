@@ -1,0 +1,1 @@
+# simplecookie.js
